@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/bg_grey</color>
+    <color name="colorPrimaryDark">@color/black</color>
+    <color name="colorAccent">@color/bluish_purple</color>
+    <color name="bg_grey">#1D1D1D</color>
+    <color name="black">#000000</color>
+    <color name="bluish_purple">#7e3aec</color>
+    <color name="white">#ffffff</color>
+
+</resources>
